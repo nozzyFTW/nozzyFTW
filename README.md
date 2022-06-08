@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is nozzy and I am interested in Web and Game Development. You can reach me at my [🌐](https://nozzy.epizy.com), [](https://www.instagram.com/nozzyftw) or my [](https://www.twitter.com/nozzyftw).
+My name is nozzy and I am interested in Web and Game Development. You can reach me at my [🌐](https://nozzy.epizy.com), [<img src="" />](https://www.instagram.com/nozzyftw) or my [](https://www.twitter.com/nozzyftw).
 - 👀 I’m interested in Web and Game Development 
 - 🌱 I’m currently learning C#, UE4 & HTML.
 - 💞️ I’m looking to collaborate on any project in which I am approach for.
