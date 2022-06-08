@@ -1,9 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is nozzy and I am interested in Web and Game Development. You can reach me at my [🌐](https://nozzy.epizy.com), [<img src="https://github.com/nozzyFTW/nozzyFTW/blob/main/instagram.svg" width="20px" height="20" />](https://www.instagram.com/nozzyftw) or my [](https://www.twitter.com/nozzyftw).
-- 👀 I’m interested in Web and Game Development 
-- 🌱 I’m currently learning C#, UE4 & HTML.
-- 💞️ I’m looking to collaborate on any project in which I am approach for.
-- 📫 You can reach me via my [Website](https://nozzy.epizy.com), [Instagram](https://www.instagram.com/nozzyftw) or my [Twitch](https://www.twitch.tv/nozzyftw).
+My name is nozzy and I am interested in Web and Game Development. If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagrram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
 
 ## Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91) ![](https://img.shields.io/badge/Editor-Unreal%20Engine-informational?style=flat&logo=unrealengine&logoColor=white&color=0E1128)
