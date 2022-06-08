@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is nozzy and I am interested in Web and Game Development. If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagrram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
+My name is nozzy and I am interested in Web and Game Development. If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
 
 ## Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91) ![](https://img.shields.io/badge/Editor-Unreal%20Engine-informational?style=flat&logo=unrealengine&logoColor=white&color=0E1128)
