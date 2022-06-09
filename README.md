@@ -11,9 +11,8 @@ My name is nozzy and I am interested in Web and Game Development. If you would l
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark" />
 
 ## 📣 Socials
-![https://img.shields.io/badge/Stack%20Overflow-informational?style=for-the-badge&logo=stackoverflow&logoColor=white&color=F58025](https://stackoverflow.com/users/13446337/nozzy)![](https://img.shields.io/badge/Stack%20Overflow-informational?style=for-the-badge&logo=stackoverflow&logoColor=white&color=F58025)
-[
-](https://stackoverflow.com/users/13446337/nozzy)
+[<img src="https://img.shields.io/badge/Stack%20Overflow-informational?style=for-the-badge&logo=stackoverflow&logoColor=white&color=F58025">](https://www.stackoverflow.com/users/13446337/nozzy) [<img src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/nozzyfw) [<img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">](https://www.twitter.com/nozzyfw) [<img src="https://img.shields.io/badge/Twitch-informational?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF">](https://www.twitch.tv/nozzyfw)
+
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 <!---
 nozzyFTW/nozzyFTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
