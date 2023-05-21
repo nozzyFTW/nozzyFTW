@@ -13,6 +13,7 @@ My name is nozzy and I am interested in Web and Game Development. If you would l
 ## 📣 Socials
 [<img src="https://img.shields.io/badge/Stack%20Overflow-informational?style=for-the-badge&logo=stackoverflow&logoColor=white&color=F58025">](https://www.stackoverflow.com/users/13446337/nozzy)  [<img src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/nozzyfw)  [<img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">](https://www.twitter.com/nozzyfw)  [<img src="https://img.shields.io/badge/Twitch-informational?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF">](https://www.twitch.tv/nozzyfw)  [<img src="https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865F2">](https://discord.gg/MmrYxKrZy3)
 
+[<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" />
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 <!---
 nozzyFTW/nozzyFTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
