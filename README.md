@@ -20,16 +20,13 @@ My name is nozzy and I am interested in Web and Game Development. If you would l
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nozzyftw&card_width=770">
 </section>
-<!--
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nozzyftw&theme=dark&card_width=770)](https://git.io/streak-stats)
 </section>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nozzyftw&theme=dark&card_width=770)](https://git.io/streak-stats)
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=nozzyftw&theme=dark&card_width=770)](https://git.io/streak-stats)-->
 ## 📣 Socials
 <!--[<img src="https://img.shields.io/badge/Stack%20Overflow-informational?style=for-the-badge&logo=stackoverflow&logoColor=white&color=F58025">](https://www.stackoverflow.com/users/13446337/nozzy)  [<img src="https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/nozzyfw)  [<img src="https://img.shields.io/badge/Twitch-informational?style=for-the-badge&logo=twitch&logoColor=white&color=9146FF">](https://www.twitch.tv/nozzyfw)  [<img src="https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865F2">](https://discord.gg/MmrYxKrZy3) -->
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://www.stackoverflow.com/users/13446337/nozzy)   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nozzyftw)   [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://www.twitch.tv/nozzyftw)   [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/MmrYxKrZy3)
