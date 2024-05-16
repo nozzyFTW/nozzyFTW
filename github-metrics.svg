@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.6570416740847" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="207.6570416740847" y="0" width="142.07682351186324" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="349.73386518594793" y="0" width="65.40978794863035" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="415.14365313457824" y="0" width="17.0002293574303" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.1438824920086" y="0" width="14.127262899751555" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.2711453917601" y="0" width="13.668355571380683" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9395009631408" y="0" width="0.06049903685918256" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.19843293148398" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="207.19843293148398" y="0" width="141.76304810189788" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="348.96148103338186" y="0" width="65.63782985335938" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="414.59931088674125" y="0" width="16.962684501033028" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.5619953877743" y="0" width="14.73947005814093" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.30146544591526" y="0" width="13.63816912881425" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.9396345747295" y="0" width="0.06036542527058018" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -97,8 +97,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8f40468</div>
-                                        <div class="message">Week 10: Task 1</div>
+                                        <div class="sha">#412ac4b</div>
+                                        <div class="message">Week 10: Task 7</div>
                                     </div>
                                 </div>
                             </section>
@@ -111,14 +111,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/nozzyFTW</span>
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ac07f73</div>
-                                        <div class="message">Rename main.yml to metrics.yml</div>
+                                        <div class="sha">#82a389e</div>
+                                        <div class="message">Week 10: Task 6</div>
                                     </div>
                                 </div>
                             </section>
@@ -131,14 +131,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/nozzyFTW</span>
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#143eb31</div>
-                                        <div class="message">Create main.yml</div>
+                                        <div class="sha">#e3cda4e</div>
+                                        <div class="message">Week 10: Task 5</div>
                                     </div>
                                 </div>
                             </section>
@@ -151,14 +151,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/nozzyFTW</span>
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#237cc50</div>
-                                        <div class="message">Delete .github/workflows/metrics.yml</div>
+                                        <div class="sha">#cef0ce6</div>
+                                        <div class="message">Week 10: Task 4</div>
                                     </div>
                                 </div>
                             </section>
@@ -171,14 +171,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/nozzyFTW</span>
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f56dd0</div>
-                                        <div class="message">Create metrics.yml</div>
+                                        <div class="sha">#9f223e7</div>
+                                        <div class="message">Week 10: Task 3</div>
                                     </div>
                                 </div>
                             </section>
