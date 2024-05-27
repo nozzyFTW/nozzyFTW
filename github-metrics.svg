@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.1787546359555" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="202.1787546359555" y="0" width="138.32863556509858" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="340.507390201054" y="0" width="67.6586999804802" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="408.16609018153423" y="0" width="22.842865508491116" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.00895569002535" y="0" width="14.549756002342376" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="445.55871169236775" y="0" width="14.382385321100916" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.94109701346866" y="0" width="0.05890298653132929" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.31799543781574" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="201.31799543781574" y="0" width="137.73971292758816" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="339.0577083654039" y="0" width="69.32906036730715" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="408.386768732711" y="0" width="22.745613912329556" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.1323826450406" y="0" width="14.487811628749535" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.6201942737901" y="0" width="14.321153514234668" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.9413477880248" y="0" width="0.05865221197518943" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -97,6 +97,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">amended_main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#13927b8</div>
+                                        <div class="message">Setup base homepage. Created file structure.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">amended_main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6ef4c0b</div>
+                                        <div class="message">Setting Up README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">amended_main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4a38b6a</div>
                                         <div class="message">First commit - Assignment 2</div>
                                     </div>
@@ -129,46 +169,6 @@
                                         Created new
                       repository
                                         <span class="repo">nozzyFTW/blackjack-dice</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">amended_main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0b35605</div>
-                                        <div class="message">Week 11 Task 8</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">amended_main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef8f5f5</div>
-                                        <div class="message">Week 11 Task 7</div>
                                     </div>
                                 </div>
                             </section>
