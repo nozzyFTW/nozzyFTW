@@ -91,14 +91,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
+                                        <span class="repo">nozzyFTW/DailyChessPuzzle</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">amended_main</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9946640</div>
-                                        <div class="message">Completed Task 11</div>
+                                        <div class="sha">#85baf66</div>
+                                        <div class="message">Create LICENSE</div>
                                     </div>
                                 </div>
                             </section>
@@ -117,8 +117,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">amended_main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#34992b4</div>
-                                        <div class="message">Amended Task 10 / Started Task 11</div>
+                                        <div class="sha">#acc4318</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -137,8 +137,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">amended_main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#00fef2d</div>
-                                        <div class="message">Week 11 Task 10</div>
+                                        <div class="sha">#12ae2a7</div>
+                                        <div class="message">Week 11/12 Task 15 Complete</div>
                                     </div>
                                 </div>
                             </section>
@@ -157,8 +157,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">amended_main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2df6c2</div>
-                                        <div class="message">Fixed Navigation Bug</div>
+                                        <div class="sha">#0da2dcf</div>
+                                        <div class="message">Week 11/12 Task 14 Complete</div>
                                     </div>
                                 </div>
                             </section>
@@ -177,8 +177,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">amended_main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f160377</div>
-                                        <div class="message">Completed Navigation / Heading</div>
+                                        <div class="sha">#ec682a2</div>
+                                        <div class="message">Week 11 Task 13 Complete</div>
                                     </div>
                                 </div>
                             </section>
