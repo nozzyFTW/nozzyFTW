@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.88906335712358" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="187.88906335712358" y="0" width="128.55177498048118" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="316.44083833760476" y="0" width="71.59633597357629" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="388.03717431118105" y="0" width="34.695694827000715" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.73286913818174" y="0" width="18.644246369786874" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="441.37711550796865" y="0" width="18.568144680282927" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.94526018825155" y="0" width="0.05473981174845228" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.29543935584482" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="187.29543935584482" y="0" width="128.14562351177992" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="315.4410628676247" y="0" width="71.61368627235404" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="387.05474913997875" y="0" width="34.5860759017565" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="421.64082504173524" y="0" width="19.320662787770775" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.96148782950604" y="0" width="18.98394530583194" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.945433135338" y="0" width="0.05456686466202395" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -83,6 +83,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nozzyFTW/inft1016_sp2_2024_practicals</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">amended_main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eeef7ba</div>
+                                        <div class="message">Added Instructions to the ToDo Page / Added Styling to Add Modal Buttons</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -159,26 +179,6 @@
                                     <div class="commit">
                                         <div class="sha">#cee7ab1</div>
                                         <div class="message">Completed</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nozzyFTW/blackjack-dice</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dd7726f</div>
-                                        <div class="message">Added Comments Part 1</div>
                                     </div>
                                 </div>
                             </section>
