@@ -18,7 +18,7 @@ const nozzy = {
         backend: {
             js: ["Node.JS", "Express"],
             java: ["SpringBoot"],
-        }
+        },
         devOps: ["Docker"],
         databases: ["PostgreSQL", "SQLite", "MS SQL", "MongoDB"],
         misc: ["Socket.IO", "REST APIs", "WebSockets"],
