@@ -8,7 +8,7 @@ My name is Noah and I am an Apprentice Software Engineer. If you would like to t
 const nozzy = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "TypeScript", "JavaScript", "C#"],
-    aboutMe: ["Student", "Software Engineer", "Web Dev"]
+    aboutMe: ["Student", "Software Engineer", "Web Dev"],
     technologies: {
         frontend: {
             js: ["Angular"],
@@ -21,7 +21,7 @@ const nozzy = {
         }
         devOps: ["Docker"],
         databases: ["PostgreSQL", "SQLite", "MS SQL", "MongoDB"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets"]
+        misc: ["Socket.IO", "REST APIs", "WebSockets"],
     },
     environment: {
         os: ["Windows 11", "MacOS", "Ubuntu"],
