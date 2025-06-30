@@ -1,21 +1,44 @@
 
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is nozzy and I am interested in Web and Game Development. If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
+My name is Noah and I am an Apprentice Software Engineer. If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
 
-## 🔧 Tools
-<!--[<img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6">](https://www.microsoft.com/en-au/windows/get-windows-10)  [<img src="https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=EBEBEB">]()  [<img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC">](https://code.visualstudio.com/insiders/) -->
 
-[<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-au/windows/)   [<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">](www.apple.com/au/macos/)   [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">](https://ubuntu.com)   [<img src="https://img.shields.io/badge/VSCode-009B7D?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">](https://code.visualstudio.com/insiders/)
+```js
+const nozzy = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Java", "TypeScript", "JavaScript", "C#"],
+    aboutMe: ["Student", "Software Engineer", "Web Dev"]
+    technologies: {
+        frontend: {
+            js: ["Angular"],
+            css: ["SCSS"],
+            ui: ["Material UI", "Bootstrap"],
+        },
+        backend: {
+            js: ["Node.JS", "Express"],
+            java: ["SpringBoot"],
+        }
+        devOps: ["Docker"],
+        databases: ["PostgreSQL", "SQLite", "MS SQL", "MongoDB"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets"]
+    },
+    environment: {
+        os: ["Windows 11", "MacOS", "Ubuntu"],
+        ide: ["VS Code", "JetBrains", "Eclipse"],
+    },
+    funFact: "I focus better when there is more bass in my music!"
+};
+```
 
-## 📝 Languages
-<!--[<img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26">](https://www.w3schools.com/html/)  [<img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">](https://www.w3schools.com/css/)  [<img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E">](https://www.w3schools.com/js/)  [<img src="https://img.shields.io/badge/C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=239120">](https://docs.microsoft.com/en-us/dotnet/csharp/)  [<img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB">](https://www.python.org/) -->
-[<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">](https://www.python.org/)   [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">](https://docs.microsoft.com/en-us/dotnet/csharp/)   [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://www.w3schools.com/js/)   [<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://www.w3schools.com/html/)   [<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://www.w3schools.com/css/)   [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">](https://www.php.net)
 
 ## 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3#gh-dark-mode-only" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark#gh-dark-mode-only" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nozzyftw&theme=dark&card_width=770#gh-dark-mode-only)](https://git.io/streak-stats)
+
+## 🤝 Open Source Contributions
+PR [#142](https://github.com/canonical/real-time-ubuntu-docs/pull/142) - Verbage error in Linux Kernel Schedulers page - [Real-Time Ubuntu Documentation](https://github.com/canonical/real-time-ubuntu-docs)
 
 ## 🎓 Current Learning Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/68592cfabaf1527455614dca?variant=dark)](https://roadmap.sh)
