@@ -32,13 +32,13 @@ const nozzy = {
 ```
 
 
+## 🤝 Open Source Contributions
+PR [#142](https://github.com/canonical/real-time-ubuntu-docs/pull/142) - Verbage error in Linux Kernel Schedulers page - [Real-Time Ubuntu Documentation](https://github.com/canonical/real-time-ubuntu-docs)
+
 ## 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3#gh-dark-mode-only" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark#gh-dark-mode-only" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nozzyftw&theme=dark&card_width=770#gh-dark-mode-only)](https://git.io/streak-stats)
-
-## 🤝 Open Source Contributions
-PR [#142](https://github.com/canonical/real-time-ubuntu-docs/pull/142) - Verbage error in Linux Kernel Schedulers page - [Real-Time Ubuntu Documentation](https://github.com/canonical/real-time-ubuntu-docs)
 
 ## 🎓 Current Learning Roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/68592cfabaf1527455614dca?variant=dark)](https://roadmap.sh)
