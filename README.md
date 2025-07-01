@@ -33,7 +33,9 @@ const nozzy = {
 
 
 ## 🤝 Open Source Contributions
-PR [#142](https://github.com/canonical/real-time-ubuntu-docs/pull/142) - Verbage error in Linux Kernel Schedulers page - [Real-Time Ubuntu Documentation](https://github.com/canonical/real-time-ubuntu-docs)
+### [Real-Time Ubuntu Documentation](https://github.com/canonical/real-time-ubuntu-docs)
+PR [#142](https://github.com/canonical/real-time-ubuntu-docs/pull/142) - Verbage error in Linux Kernel Schedulers page<br>
+PR [#143](https://github.com/canonical/real-time-ubuntu-docs/pull/143) - Verbage error in README and Kernel Configuration Options page
 
 ## 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozzyftw&theme=dark&langs_count=3#gh-dark-mode-only" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nozzyftw&line_height=27&show_icons=true&theme=dark#gh-dark-mode-only" />
